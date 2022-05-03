@@ -47,4 +47,4 @@ This project is licensed under the [GNU GPLv3 License][LICENSE.md].
 [IDE]: https://www.arduino.cc/en/Main/Software
 [library]: https://github.com/annem/ADXL362
 [guide]: https://learn.sparkfun.com/tutorials/pro-micro--fio-v3-hookup-guide/all
-[code]: https://github.com/leomol/accelerometer/tree/master/Accelerometer
+[code]: https://github.com/leomol/accelerometer/tree/master/accelerometer
