@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+title: "Light accelerometer sensor for mice"
+abstract: "Accelerometer setup with readily available components, light enough to use on a freely moving mouse"
+message: If you use this software, please cite it.
+type: software
+version: 1.0.0
+date-released: 2022-05-03
+repository-code: https://github.com/leomol/accelerometer
+authors:
+  - family-names: "Molina"
+    given-names: "Leonardo A."
+    email: "leonardomt@gmail.com"
+    affiliation: "University of Calgary"
+    orcid: https://orcid.org/0000-0002-6601-7185
