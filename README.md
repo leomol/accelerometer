@@ -22,6 +22,11 @@ Detect acceleration changes on a freely moving mouse using lightweight, readily 
 - Install the ADXL362 library using Arduino IDE's library manager.
 - Upload the code after selecting SparkFun Pro Micro as the board and Atmega32U4 (3.3V, 8MHz) as the processor. To avoid permanently damaging the microcontroller, do not attempt to upload the code using any other combination of board and processor from the IDE.
 
+## Usage
+- Configure your data acquisition system to read analog data from one of the input ports.
+- Connect the BNC cable to the analog port of the data acquisition system.
+- Power the microcontroller with a micro usb cable.
+- Attach the accelerometer sensor to the subject.
 
 ## Version History
 ### 0.1.0
