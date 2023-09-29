@@ -1,7 +1,7 @@
 /**
  * @brief This is a minimalistic version of the accelerometer program.
  * @author Leonardo Molina (leonardomt@gmail.com).
- * @file Accelerometer.ino
+ * @file digitalSensor.ino
  * @date 2022-05-03
  * @version: 0.1.0
 */
@@ -25,8 +25,8 @@ void setup() {
 	sensor.begin(10);
 	// Switch ADXL362 to measure mode
 	sensor.beginMeasure();
-	// Configure pin.
-	pinMode(bncPin, bncPin);
+	// Configure BNC pin.
+	pinMode(bncPin, OUTPUT);
 }
 
 void loop(){
